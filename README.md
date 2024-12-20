@@ -1,0 +1,1 @@
+This repository demonstrates a common pitfall when using NSDecimalNumber in Objective-C: unexpected comparison results and unhandled exceptions during arithmetic operations. The `bug.m` file contains code exhibiting these issues. The `bugSolution.m` file provides a corrected version with robust error handling and precise comparison techniques.
